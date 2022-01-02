@@ -1,0 +1,2 @@
+# whatsGC
+whatsapp messenger automator
