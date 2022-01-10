@@ -1,6 +1,6 @@
 <div align="center">
 
-![wgc-icon](wgc/icons/favicon_io/favicon-192x192.png)
+![wgc-icon](wgc/icons/favicon-192x192.png)
 # whatsGC
 
 </div>
