@@ -1,2 +1,13 @@
+<div align="center">
+
+![wgc-icon](wgc/icons/favicon_io/favicon-192x192.png)
 # whatsGC
-whatsapp messenger automator
+
+</div>
+
+    desktop messenger schedulator
+
+---
+
+&copy; 2022 Nurul-GC \
+&trade;ArtesGC-DevSoft
